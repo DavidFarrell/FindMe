@@ -3291,7 +3291,7 @@ MonoBehaviour:
         fsmStringParams: []
         fsmObjectParams: []
         fsmVarParams: []
-        byteData: 0000000000000000000000000000803f000000a0400046494e495348454400
+        byteData: 0000000000000000000000000000803f000000803f0046494e495348454400
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
